@@ -1,0 +1,19 @@
+Title:          firmware-rpi-wireless.tcz
+Description:    Firmware for RPi onboard WiFi adapter
+Version:        7.45.41.26
+Author:         Cypress
+Original-site:  http://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/firmware-brcm80211_0.43+rpi6_all.deb
+Copying-policy: See LICENCE.broadcom_bcm43xx
+Size:           254k
+Extension_by:   Paul_123
+Tags:           FIRMWARE RPI3 WIFI WIRELESS
+Comments:       Binaries only
+                ----
+                Packed for piCore 8.x / RPi3
+Change-log:     2016/06/28 First version 7.45.41.26
+                CVE-2017-9417: Broadpwn issue fix
+                Add CY string in the version string.
+                AMPDU sequence number deadlock fix (potential fix for this issue)
+                CLM version upgrade
+                CVE-2017-0572: memory corruption fix
+Current:        2017/08/087.45.41.46 (md5 5f520a38ab4e943bfa1ba102f80fb2a0)
