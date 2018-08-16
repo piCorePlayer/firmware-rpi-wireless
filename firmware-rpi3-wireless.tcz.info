@@ -4,7 +4,7 @@ Version:        7.45.98.38
 Author:         Cypress
 Original-site:  http://archive.raspberrypi.org/debian/pool/main/f/firmware-nonfree/firmware-brcm80211_0.43+rpi6_all.deb
 Copying-policy: See LICENCE.broadcom_bcm43xx
-Size:           260k
+Size:           656k
 Extension_by:   Paul_123
 Tags:           FIRMWARE RPI3 RPI0W WIFI WIRELESS
 Comments:       Binaries only
@@ -18,4 +18,5 @@ Change-log:     2016/06/28 First version 7.45.41.26
                 CVE-2017-0572: memory corruption fix
                 2017/08/08 version 7.45.41.46 (r666254 CY) FWID 01-f8a78378
                 2018/01/24 version 7.45.98.38 (r674442 CY) FWID 01-e58d219f
-Current:        2018/03/17 Add RPi3B+ Firmware brcm43455 version: 7.45.154
+                2018/03/17 Add RPi3B+ Firmware brcm43455 version: 7.45.154
+Current:        2018/08/19 Add NVRAM parameters for BT COEXIST
