@@ -1,6 +1,6 @@
 Title:          firmware-rpi-bt.tcz
 Description:    firmware for RPi onboard bluetooth adapter
-Version:        20170808
+Version:        See Changelog
 Author:         Cypress/Broadcom
 Original-site:  http://archive.raspberrypi.org/debian/pool/main/b/bluez-firmware/bluez-firmware_1.2-3+rpi2.debian.tar.xz
 Copying-policy: https://github.com/raspberrypi/linux/issues/1342#issuecomment-321221748
@@ -9,4 +9,5 @@ Extension_by:   paul-123
 Tags:           firmware rpi bluetooth bt
 Comments:       Binaries only
 Change-log:     2017/03/12 first version
-Current:        2017/08/08 (MD5: 85801286c2253de0741310b2789bf187)
+                2017/08/08 (pi3/0 firmware MD5: 85801286c2253de0741310b2789bf187)
+Current:        2018/03/17 (Add pi3b+ firmware MD5: ec75853caa3fa18a86fa4cbcb5242d54)
